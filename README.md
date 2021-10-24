@@ -1,2 +1,2 @@
-# ChatMultiHilo
-Simple multi-thread chat. Client - Server
+# Chat multi-thread
+Simple multi-thread chat. Client/Server
